@@ -17,6 +17,22 @@ public class Main {
         *    b) liczbaX i liczbaY, dowolne liczby zmiennoprzecinkowe (double)
         *  */
 
+int liczba1 = 20;
+int liczba2 = 10;
+System.out.println("20 + 10="+(liczba1+liczba2));
+
+// odejmowanie
+int liczba3 = 20;
+int liczba4 = 5;
+System.out.println("20 - 5="+(liczba3-liczba4));
+
+//mnozenie
+int liczba5 = 35;
+int liczba6 = 6;
+System.out.println("35 * 6="+(liczba5*liczba6));
+
+//dzielenie
+
 
     }
 }
