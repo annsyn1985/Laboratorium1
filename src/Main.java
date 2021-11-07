@@ -5,5 +5,7 @@ public class Main {
 //        Użyć każdej z opcji
 
         System.out.println("pada deszcz");
+        System.out.printf("sloneczna pogoda");
+        System.out.print("jutro bedzie słonce swiecic");
     }
 }
