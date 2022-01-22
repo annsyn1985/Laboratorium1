@@ -17,6 +17,21 @@ public class Main {
         *   wynik wyświetlić w konsoli programu
         */
 
+        /* zad.1
+
+        public static void main(String[] args)
+
+       String name = "Anna";
+       String surname = "Synenko";
+       int wiek;
+       int numer indeksu;
+
+        println("Podaj imie i nazwisko");
+        printf("Podaj wiek);
+        printf("Podaj numer indeksu");
 
     }
 }
+
+
+         */
